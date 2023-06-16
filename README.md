@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api?username=silverwind)
+![](https://github-readme-stats.vercel.app/api?username=silverwind&theme=transparent)
